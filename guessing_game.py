@@ -20,4 +20,10 @@ while True:
         attempts += 1
     except ValueError:
         print("Value not a number!")
-        break
+        keep_playing = input("Do you want to keep playing? (yes/no) ")
+        if keep_playing != "yes":
+           break 
+        else:
+            print("Guess the number between 1 and 100:")
+
+print("\nBye bye!")
