@@ -4,7 +4,7 @@ import os
 t = 3 # 3 seconds
 
 def sleep():
-    print("\nSleeping for 3 seconds...\n")
+    print(f"\nSleeping for {t} seconds...\n")
     time.sleep(t)
 
 
