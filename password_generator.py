@@ -4,6 +4,9 @@ import sys
 
 os.system('cls' if os.name == 'nt' else 'clear')
 character_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!#$%&()*+,-./:;<=>?@[]^_`{|}~"
+# cyrillic_alphabet = "АаБбВвГгДдЕеЁёЖжЗзИиЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЪъЫыЬьЭэЮюЯя"
+# new_string = character_string + cyrillic_alphabet
+# Uncomment the 2 lines above and replace every var from character_string to new_string
 password = ""
 entropy = 0
 
