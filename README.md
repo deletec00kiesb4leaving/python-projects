@@ -8,5 +8,4 @@ This is a repository for my projects while I'm learning python.
 - [Freecodecamp.org](https://www.freecodecamp.org/l)
 
 ### Certifications:
-- Back End Development and APIs
 - Scientific Computing with Python
